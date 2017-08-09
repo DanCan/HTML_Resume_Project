@@ -1,6 +1,7 @@
 # HTML_Resume_Project
 A resume project from my Udacity course.
 
+* Its got some examples
 
 ```
 '##::::'##::'#######:::'######::'########:'########:'########::
